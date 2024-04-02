@@ -1,18 +1,10 @@
-<<<<<<< HEAD
 lieu: pont de l'épée
-=======
-lieu: pont de l'épée
->>>>>>> fisher-king
 inventaire:
   - cheval
   - baguette  
 personnages:
   - moi:
-<<<<<<< HEAD
     - santé: 7
-=======
-    - santé: 7
->>>>>>> fisher-king
   - chevalier_noir:
     - santé: 0
   - lion:
